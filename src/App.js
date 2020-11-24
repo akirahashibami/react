@@ -4,7 +4,7 @@ import logo from './logo.svg';
 import './App.css';
 
 import Image from './component/Image/Image';
-
+import Game from './component/Game/Game';
 
 // コンポーネントの中身
 class App extends Component {
@@ -66,6 +66,10 @@ class App extends Component {
             />
           )
         })}
+      </div>
+
+      <div>
+        <Game />
       </div>
 
       </header>
