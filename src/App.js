@@ -1,7 +1,7 @@
 // インポート
 import React, { Component } from 'react';
 import logo from './logo.svg';
-import './App.css';
+import './css/App.css';
 
 import Image from './component/Image/Image';
 import Game from './component/Game/Game';
